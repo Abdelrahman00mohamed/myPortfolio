@@ -2,7 +2,7 @@
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 
-import pdf from "../../Assets/../Assets/Abdelrahman_Mohamed.pdf";
+import pdf from "../../Assets/../Assets/Abdekrahman-Mohamed-Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 
 
