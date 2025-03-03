@@ -97,6 +97,7 @@ function Projects() {
               demoLink="https://simpleproject-ecommerce.netlify.app"     
             />
           </Col>
+      
         </Row>
       </Container>
     </Container>
